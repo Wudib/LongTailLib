@@ -1,4 +1,4 @@
-name: pfllib
+name: LongTailLib
 channels:
   - pytorch
   - nvidia
